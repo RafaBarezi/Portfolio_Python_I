@@ -1,0 +1,23 @@
+print("Função range:\n")
+
+list(range(0, 10, 2))
+print()
+print(list(range(0, 10, 2))) 
+print()
+print(type(list(range(0, 10, 2))))
+print()
+print(list(range(0, 10, 1))) 
+print()
+print(list(range(10, 0, -1))) 
+print()
+
+range((10))
+print((list(range((15)))))
+print()
+
+print(list(range(1, 10)))
+print()
+print(list(range(0, 110, 10)))
+print()
+print(list(range(0, 110, 10)))
+print()
